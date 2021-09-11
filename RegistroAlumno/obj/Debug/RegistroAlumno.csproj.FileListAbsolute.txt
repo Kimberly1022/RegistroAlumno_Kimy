@@ -1,0 +1,30 @@
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\bin\Debug\RegistroAlumno.exe.config
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\bin\Debug\RegistroAlumno.exe
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\bin\Debug\RegistroAlumno.pdb
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.csprojAssemblyReference.cache
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.Form1.resources
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.Properties.Resources.resources
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.GenerateResource.cache
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.CoreCompileInputs.cache
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.exe
+C:\Users\tecbi\source\repos\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\bin\Debug\RegistroAlumno.exe.config
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\bin\Debug\RegistroAlumno.exe
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\bin\Debug\RegistroAlumno.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.AssemblyReference.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.Form1.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.Properties.Resources.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.GenerateResource.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.CoreCompileInputs.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.exe
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\RegistroAlumno\RegistroAlumno\obj\Debug\RegistroAlumno.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\bin\Debug\RegistroAlumno.exe.config
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\bin\Debug\RegistroAlumno.exe
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\bin\Debug\RegistroAlumno.pdb
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.AssemblyReference.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.Form1.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.Properties.Resources.resources
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.GenerateResource.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.CoreCompileInputs.cache
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.exe
+C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.pdb
