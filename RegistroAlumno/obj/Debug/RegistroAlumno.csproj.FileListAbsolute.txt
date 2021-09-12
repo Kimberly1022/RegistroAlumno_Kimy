@@ -28,3 +28,13 @@ C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Regist
 C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.CoreCompileInputs.cache
 C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.exe
 C:\Users\HELPCOMPUTER\Documents\Programación II\Acceso a Datos (Tarea 4)\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.pdb
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\bin\Debug\RegistroAlumno.exe.config
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\bin\Debug\RegistroAlumno.exe
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\bin\Debug\RegistroAlumno.pdb
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.AssemblyReference.cache
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.Form1.resources
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.Properties.Resources.resources
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.GenerateResource.cache
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.csproj.CoreCompileInputs.cache
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.exe
+C:\Users\Kimberly De La Paz\Downloads\Recursos extras\Registro_Alumno\RegistroAlumno\obj\Debug\RegistroAlumno.pdb

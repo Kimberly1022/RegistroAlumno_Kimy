@@ -56,11 +56,11 @@ namespace RegistroAlumno
             // 
             this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(12, 400);
+            this.dataGridView1.Location = new System.Drawing.Point(12, 373);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 62;
             this.dataGridView1.RowTemplate.Height = 28;
-            this.dataGridView1.Size = new System.Drawing.Size(794, 163);
+            this.dataGridView1.Size = new System.Drawing.Size(794, 190);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
@@ -167,7 +167,7 @@ namespace RegistroAlumno
             this.groupBox2.Controls.Add(this.btnBuscar);
             this.groupBox2.Location = new System.Drawing.Point(13, 286);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(793, 108);
+            this.groupBox2.Size = new System.Drawing.Size(793, 81);
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
             // 
